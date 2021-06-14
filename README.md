@@ -42,7 +42,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19&layout=compact)](https://github.com/warunicorn/github-readme-stats)
