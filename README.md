@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>
+
 </p>
 
 ### Hi there 👋  <img align="center" alt="GIF" height="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
