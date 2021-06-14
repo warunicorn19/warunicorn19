@@ -40,3 +40,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ![warunicorn19's GitHub stats](https://github-readme-stats.vercel.app/api?username=warunicorn19&count_private=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19&layout=compact)](https://github.com/warunicorn/github-readme-stats)
+
+
