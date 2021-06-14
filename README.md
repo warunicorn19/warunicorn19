@@ -36,7 +36,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
  ---
-[![warunicorn19's GitHub stats](https://github-readme-stats.vercel.app/api?username=warunicorn19)](https://github.com/warunicorn19/github-readme-stats)
+
 
 ![warunicorn19's GitHub stats](https://github-readme-stats.vercel.app/api?username=warunicorn19&count_private=true)
 
