@@ -37,14 +37,13 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
  ---
 
-
-![warunicorn19's GitHub stats](https://github-readme-stats.vercel.app/api?username=warunicorn19&count_private=true)
 ![warunicorn19's GitHub stats](https://github-readme-stats.vercel.app/api?username=warunicorn19&show_icons=true&theme=radical)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19)](https://github.com/warunicorn19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19&layout=compact)](https://github.com/warunicorn/github-readme-stats)
 
