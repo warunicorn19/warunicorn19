@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 # ![warunicorn19 header](https://github.com/warunicorn19/warunicorn19/blob/ea1fc2f46b6d15666c236c73a733bbda0e0ededb/Header/WhatsApp%20Image%202021-06-20%20at%2021.31.21.jpeg)
 <p align='middle'>
+<a href="https://dev.to/warunicorn19"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
