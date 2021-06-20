@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ![warunicorn19 header](https://github.com/warunicorn19/warunicorn19/blob/36fae15917e0a0ed0bde1ccb4c2c8bafcc709b4e/Header/WhatsApp%20Image%202021-06-20%20at%2020.50.55.jpeg)
+# ![warunicorn19 header]<img width="1024" height="256" src="https://github.com/warunicorn19/warunicorn19/blob/36fae15917e0a0ed0bde1ccb4c2c8bafcc709b4e/Header/WhatsApp%20Image%202021-06-20%20at%2020.50.55.jpeg")
 <p align='middle'>
 <a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
