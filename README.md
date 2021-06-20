@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aditya34567"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+<img align="center" alt="GIF" height="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/></a>
 
 </p>
 
-### Hi there 👋  <img align="center" alt="GIF" height="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+### Hi there 👋  
 I'm <b>Aditya</b> a.k.a warunicorn. <br>
 I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a tip, give me a shout out [@adi_bleh](https://www.instagram.com/adi_bleh/), give some ♥.
 
