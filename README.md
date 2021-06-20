@@ -27,7 +27,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
 ---
 
 
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX?highlight=spotify:track:161DnLWsx1i3u1JT05lzqU)
 
 
 ___
