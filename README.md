@@ -67,4 +67,14 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  </br>
  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
-
+<hr>
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=warunicorn19&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/warunicorn19/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=warunicorn19&theme=react-dark&hide_border=true">
+  </a>
+</p>
