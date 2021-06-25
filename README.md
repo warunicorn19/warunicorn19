@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 
 </p>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya%2C;A.K.A+Warunicorn+from+Kolkata%2C+India.)](https://git.io/typing-svg)
 
 I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a tip, give me a shout out [@adi_bleh](https://www.instagram.com/adi_bleh/), give some ♥.
+=======
 
----
 
 
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX?highlight=spotify:track:161DnLWsx1i3u1JT05lzqU)
@@ -67,4 +68,14 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  </br>
  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
-
+<hr>
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=warunicorn19&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/warunicorn19/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=warunicorn19&theme=react-dark&hide_border=true">
+  </a>
+</p>
