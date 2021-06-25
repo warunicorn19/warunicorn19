@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 </p>
 
-# Hi there   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> 
-I'm <b>Aditya</b> a.k.a warunicorn. <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya%2C;A.K.A+Warunicorn+from+Kolkata%2C+India.)](https://git.io/typing-svg)
+
 I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a tip, give me a shout out [@adi_bleh](https://www.instagram.com/adi_bleh/), give some ♥.
 
 ---
