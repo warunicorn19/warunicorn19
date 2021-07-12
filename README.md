@@ -47,13 +47,18 @@ ___
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
  ---
-<p>
-  
 
+<img src="https://github-readme-stats.vercel.app/api?username=warunicorn19&show_icons=true&theme=radical&show_private=true" align="left"/>
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warunicorn19&layout=compact&theme=tokyonight&show_private=true)](https://github.com/warunicorn19/github-readme-stats)
 
-<hr>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=warunicorn19&column=6&theme=onedark" align="center"/>
+</div>
+
+---
 
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
