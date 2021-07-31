@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 I have a passion for learning and sharing my knowledge with others. If you find value in something I have created, please feel free to give me a shout out on [@adi_bleh](https://www.instagram.com/adi_bleh/), give some ♥.
 =======
 
+---
 
 <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
