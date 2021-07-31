@@ -31,13 +31,6 @@ I have a passion for learning and sharing my knowledge with others. If you find 
 =======
 
 
-
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX?highlight=spotify:track:161DnLWsx1i3u1JT05lzqU)
-
-
-
-___
-
 <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
