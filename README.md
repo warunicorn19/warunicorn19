@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 # ![warunicorn19 header](https://github.com/warunicorn19/warunicorn19/blob/ea1fc2f46b6d15666c236c73a733bbda0e0ededb/Header/WhatsApp%20Image%202021-06-20%20at%2021.31.21.jpeg)
 <p align='middle'>
-<a href="https://instagram.com/adi_bleh"><img height="30" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/adi.260801"><img height="30" src="https://img.icons8.com/ultraviolet/40/000000/facebook-circled--v1.png"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/aditya34567"><img height="30" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img alt="LinkedIn" height="32" width="32" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+<a href="https://instagram.com/adi_bleh"><img height="43" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/adi.260801"><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/facebook-circled--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aditya34567"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 
 
 
