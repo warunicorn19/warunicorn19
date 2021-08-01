@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 <p align='middle'>
 <a href="https://dev.to/warunicorn19"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
 <a href="https://twitter.com/aditya34567"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/aditya-chatterjee-737729159/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 <img alt="GIF" height="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
