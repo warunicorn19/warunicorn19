@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # ![warunicorn19 header](https://github.com/warunicorn19/warunicorn19/blob/ea1fc2f46b6d15666c236c73a733bbda0e0ededb/Header/WhatsApp%20Image%202021-06-20%20at%2021.31.21.jpeg)
 <p align='middle'>
-<a href="https://dev.to/warunicorn19"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/adi_bleh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
+
+<a href="https://instagram.com/adi_bleh"><img height="30" src="https://icons8.com/icon/ZRiAFreol5mE/instagram-logo"></a>&nbsp;&nbsp;
+
 <a href="https://twitter.com/aditya34567"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+
 <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 <img alt="GIF" height="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
