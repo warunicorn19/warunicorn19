@@ -70,7 +70,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=warunicorn19&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=warunicorn19&theme=react&background=0d1117&hide_border=true">
   </a>
   <br>
   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
