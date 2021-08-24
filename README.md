@@ -74,7 +74,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   </a>
   <br>
   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=warunicorn19&theme=react-dark"
+    <img src="https://activity-graph.herokuapp.com/graph?username=warunicorn19&theme=react-dark&line=000000"
 >
   </a>
 </p>
